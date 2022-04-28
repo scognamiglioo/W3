@@ -1,7 +1,7 @@
 package DAO;
 
 import model.Produto;
-import com.ti2cc.Usuario;
+
 
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;

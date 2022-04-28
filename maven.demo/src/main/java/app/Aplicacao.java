@@ -10,7 +10,7 @@ public class Aplicacao {
 	private static ProdutoService produtoService = new ProdutoService();
 	
     public static void main(String[] args) {
-        port(6789);
+        port(6585);
         
         staticFiles.location("/public");
         

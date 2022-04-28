@@ -3,7 +3,7 @@ package DAO;
 import java.sql.*;
 
 public class DAO {
-	private Connection conexao;
+	protected Connection conexao;
 	
 	public DAO() {
 		conexao = null;
